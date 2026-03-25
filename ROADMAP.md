@@ -10,6 +10,11 @@ This document outlines the essential steps and technologies which we believe are
 - [x] **DNS and how it works**
 - [x] **What is a domain name?**
 - [x] **What is hosting?**
+- [x] **What is a server?**
+- [x] **What is a database?**
+- [x] **What is an API?**
+- [x] **How AIs work**
+- [x] **What is the cloud?**
 
 ## 2.  [Programming Languages](resources/Programming_Languages.md)
 
